@@ -1,0 +1,11 @@
+C:\AmitC\Work\Other\TestGitHook\GitHookTest\GitHookTestConsole\bin\Debug\netcoreapp3.1\GitHookTestConsole.exe
+C:\AmitC\Work\Other\TestGitHook\GitHookTest\GitHookTestConsole\bin\Debug\netcoreapp3.1\GitHookTestConsole.deps.json
+C:\AmitC\Work\Other\TestGitHook\GitHookTest\GitHookTestConsole\bin\Debug\netcoreapp3.1\GitHookTestConsole.runtimeconfig.json
+C:\AmitC\Work\Other\TestGitHook\GitHookTest\GitHookTestConsole\bin\Debug\netcoreapp3.1\GitHookTestConsole.runtimeconfig.dev.json
+C:\AmitC\Work\Other\TestGitHook\GitHookTest\GitHookTestConsole\bin\Debug\netcoreapp3.1\GitHookTestConsole.dll
+C:\AmitC\Work\Other\TestGitHook\GitHookTest\GitHookTestConsole\bin\Debug\netcoreapp3.1\GitHookTestConsole.pdb
+C:\AmitC\Work\Other\TestGitHook\GitHookTest\GitHookTestConsole\obj\Debug\netcoreapp3.1\GitHookTestConsole.csprojAssemblyReference.cache
+C:\AmitC\Work\Other\TestGitHook\GitHookTest\GitHookTestConsole\obj\Debug\netcoreapp3.1\GitHookTestConsole.AssemblyInfoInputs.cache
+C:\AmitC\Work\Other\TestGitHook\GitHookTest\GitHookTestConsole\obj\Debug\netcoreapp3.1\GitHookTestConsole.AssemblyInfo.cs
+C:\AmitC\Work\Other\TestGitHook\GitHookTest\GitHookTestConsole\obj\Debug\netcoreapp3.1\GitHookTestConsole.dll
+C:\AmitC\Work\Other\TestGitHook\GitHookTest\GitHookTestConsole\obj\Debug\netcoreapp3.1\GitHookTestConsole.pdb

@@ -1,0 +1,8 @@
+C:\AmitC\Work\Other\TestGitHook\GitHookTest\GitHookTest\bin\Debug\netcoreapp3.1\GitHookTest.deps.json
+C:\AmitC\Work\Other\TestGitHook\GitHookTest\GitHookTest\bin\Debug\netcoreapp3.1\GitHookTest.dll
+C:\AmitC\Work\Other\TestGitHook\GitHookTest\GitHookTest\bin\Debug\netcoreapp3.1\GitHookTest.pdb
+C:\AmitC\Work\Other\TestGitHook\GitHookTest\GitHookTest\obj\Debug\netcoreapp3.1\GitHookTest.csprojAssemblyReference.cache
+C:\AmitC\Work\Other\TestGitHook\GitHookTest\GitHookTest\obj\Debug\netcoreapp3.1\GitHookTest.AssemblyInfoInputs.cache
+C:\AmitC\Work\Other\TestGitHook\GitHookTest\GitHookTest\obj\Debug\netcoreapp3.1\GitHookTest.AssemblyInfo.cs
+C:\AmitC\Work\Other\TestGitHook\GitHookTest\GitHookTest\obj\Debug\netcoreapp3.1\GitHookTest.dll
+C:\AmitC\Work\Other\TestGitHook\GitHookTest\GitHookTest\obj\Debug\netcoreapp3.1\GitHookTest.pdb
